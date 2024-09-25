@@ -8,7 +8,7 @@ env:
   RESOURCE-GROUP: rg-eshoponweb-rg-eshoponweb-LeoLe29
   LOCATION: eastus
   TEMPLATE-FILE: infra/webapp.bicep
-  SUBSCRIPTION-ID: /subscriptions/b8b45656-848b-44ca-93b9-7b8cd7c41ab0
+  SUBSCRIPTION-ID: b8b45656-848b-44ca-93b9-7b8cd7c41ab0
   WEBAPP-NAME: eshoponweb-webapp-Toyota
 
 
